@@ -1,0 +1,6 @@
+voila
+geemap
+ipyleaflet
+ipywidgets
+numpy
+IPython
