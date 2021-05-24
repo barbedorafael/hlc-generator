@@ -1,5 +1,6 @@
 # Hydrological Landscape Classes (HLC) Generator
-Jupyter web app to generate and download Hydrological Landscape Classes via Google Earth Engine.
+Web app to generate and download Hydrological Landscape Classes via Google Earth Engine (GEE). \
+https://hlc-generator.herokuapp.com/
 
 ### If you want more flexibility, feel free to use the codes:
 [Jupyter notebook](https://github.com/rbfont/hlc-generator/blob/main/HLC_map_download.ipynb) \
